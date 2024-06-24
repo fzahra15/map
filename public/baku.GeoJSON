@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [49.773689, 40.360795],
+            [50.116329, 40.360795],
+            [50.116329, 40.548714],
+            [49.773689, 40.548714],
+            [49.773689, 40.360795]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Baku"
+      }
+    }
+  ]
+}
